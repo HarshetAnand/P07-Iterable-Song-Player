@@ -1,1 +1,2 @@
-# P07-Iterable-Song-Player
+# P07 Iterable Song Player
+This project involves the development of a collection of songs as a doubly linked list named Iterable Song Player. The final application will allow the user to play through the collection of songs in different directions (forward and backward). To do so, we created two kinds of iterators to step through the songs. In addition, the user will be able to add and remove songs at different orders. 
